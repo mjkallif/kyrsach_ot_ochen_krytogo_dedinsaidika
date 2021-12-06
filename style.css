@@ -179,6 +179,7 @@ footer{
     border-radius: 7px;
     background-color: rgb(54, 53, 53);
     transform: scale(1);
+
     transition: 2s;
 }
 .w-prew:hover{
