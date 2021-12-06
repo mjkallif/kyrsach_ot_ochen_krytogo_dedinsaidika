@@ -179,11 +179,10 @@ footer{
     border-radius: 7px;
     background-color: rgb(54, 53, 53);
     transform: scale(1);
-
     transition: 2s;
 }
 .w-prew:hover{
-    background: linear-gradient(-45deg, rgb(2, 230, 89), rgb(189, 145, 3));
+    background: linear-gradient(-45deg, rgb(2, 230, 89), rgb(189, 145, 3)); 
     transform: scale(0.9);
     transition: 2s;
 }
